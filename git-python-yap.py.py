@@ -5,3 +5,8 @@ print("Marinduque State College");
 print("BSI/T");
 print("2nd year");
 print("Section C");
+print("Watching Movie");
+print("Drawing");
+print("Playing Online Games");
+print("Listing Music");
+print("Cooking");
